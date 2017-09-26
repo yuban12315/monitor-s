@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="monitor-s:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/monitor_s_jar</output-path>
+    <root id="archive" name="monitor-s.jar">
+      <element id="module-output" name="monitor-s" />
+      <element id="extracted-dir" path="D:/迅雷下载/mongo-java-driver-3.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
